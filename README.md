@@ -43,7 +43,7 @@ Youtube | y | `http://www.youtube.com/results?search_query=%s&page={startPage?}&
 
 1. Open Chrome
 2. Right click or control click the address bar
-3. Select "Edit Search Engines"
+3. Select "Manage Search Engines..."
 4. Scroll through to see if the search you want to add is already in there—you might just need to change the keyword
 5. If it's not there, scroll to the bottom where you can add a new search engine just as you see it here
 
